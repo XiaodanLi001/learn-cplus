@@ -1,5 +1,2 @@
-Compile the main.cpp:
-    g++ -std=c++11 -pthread main.cpp
-After this command, it will generate a.out file.
-To run the algorithm:
-    ./a.out
+1. g++ -std=c++11 -pthread main.cpp
+2. ./a.out
